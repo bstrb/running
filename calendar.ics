@@ -1,0 +1,304 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:half-marathon-plan-v4
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250513
+SUMMARY:Easy 5 km
+DESCRIPTION:Easy run – conversational (5:30–6:00/km now → 5:15–5:45/km by July).
+UID:20250513-1@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250518
+SUMMARY:Long run 7 km
+DESCRIPTION:Long run – mostly easy; from Wk 28 finish last 15–30 min toward 4:45–5:00/km.
+UID:20250518-2@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250520
+SUMMARY:Easy 5 km + 4×100 m strides
+DESCRIPTION:Easy run + 4–6 relaxed 100 m strides (neuromuscular tune-up).
+UID:20250520-3@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250524
+SUMMARY:Easy 3 km
+DESCRIPTION:Easy run – conversational effort.
+UID:20250524-4@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250525
+SUMMARY:Long run 8 km
+DESCRIPTION:Long run – mostly easy; from Wk 28 finish last 15–30 min toward 4:45–5:00/km.
+UID:20250525-5@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250527
+SUMMARY:Threshold 3×6 min (7 km)
+DESCRIPTION:Threshold run – 3×6 min continuous at 85-88 % HR (≈ 4:15–4:20/km now → 4:00/km by Aug); 2 min jog recoveries.
+UID:20250527-6@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250601
+SUMMARY:Long run 9 km
+DESCRIPTION:Long run – mostly easy; from Wk 28 finish last 15–30 min toward 4:45–5:00/km.
+UID:20250601-7@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250603
+SUMMARY:Hill 6×45 s (7 km)
+DESCRIPTION:Hills – 6×45-60 s hard up 4–6 % grade; jog-down recovery.
+UID:20250603-8@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250605
+SUMMARY:Easy 6 km
+DESCRIPTION:Easy run – conversational effort.
+UID:20250605-9@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250608
+SUMMARY:Long run 10 km
+DESCRIPTION:Long run – mostly easy; from Wk 28 finish last 15–30 min toward 4:45–5:00/km.
+UID:20250608-10@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250610
+SUMMARY:Threshold 20 min continuous (8 km)
+DESCRIPTION:Threshold run – 20 min steady at 85-88 % HR (≈ 4:15–4:20/km now → 4:00/km by Aug). “Comfortably hard”.
+UID:20250610-11@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250612
+SUMMARY:Easy 6 km
+DESCRIPTION:Easy run – conversational effort.
+UID:20250612-12@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250614
+SUMMARY:Easy 4 km
+DESCRIPTION:Easy run – conversational effort.
+UID:20250614-13@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250615
+SUMMARY:Long run 12 km
+DESCRIPTION:Long run – mostly easy; from Wk 28 finish last 15–30 min toward 4:45–5:00/km.
+UID:20250615-14@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250617
+SUMMARY:Easy 6 km + strides
+DESCRIPTION:Easy run + 4–6 relaxed 100 m strides (neuromuscular tune-up).
+UID:20250617-15@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250622
+SUMMARY:Long run 10 km
+DESCRIPTION:Long run – mostly easy; from Wk 28 finish last 15–30 min toward 4:45–5:00/km.
+UID:20250622-16@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250624
+SUMMARY:Intervals 5×600 m (9 km)
+DESCRIPTION:Interval session – 5×600 m @ 10 k pace (~3:55/km); jog 400 m (≈ 2½ min) between reps.
+UID:20250624-17@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250626
+SUMMARY:Easy 7 km
+DESCRIPTION:Easy run – conversational effort.
+UID:20250626-18@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250628
+SUMMARY:Easy 4 km
+DESCRIPTION:Easy run – conversational effort.
+UID:20250628-19@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250629
+SUMMARY:Long run 14 km
+DESCRIPTION:Long run – mostly easy; from Wk 28 finish last 15–30 min toward 4:45–5:00/km.
+UID:20250629-20@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250701
+SUMMARY:Threshold 25 min (10 km)
+DESCRIPTION:Threshold run – 25 min steady at ~4:15/km (build to 4:00/km by Aug); talk only in short phrases.
+UID:20250701-21@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250703
+SUMMARY:Easy 7 km
+DESCRIPTION:Easy run – conversational effort.
+UID:20250703-22@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250706
+SUMMARY:Long run 16 km
+DESCRIPTION:Long run – mostly easy; from Wk 28 finish last 15–30 min toward 4:45–5:00/km.
+UID:20250706-23@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250708
+SUMMARY:Hill 8×50 s (8 km)
+DESCRIPTION:Hills – 8×45-60 s hard up 4–6 % grade; jog-down recovery.
+UID:20250708-24@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250710
+SUMMARY:Easy 8 km
+DESCRIPTION:Easy run – conversational effort.
+UID:20250710-25@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250712
+SUMMARY:Easy 5 km
+DESCRIPTION:Easy run – conversational effort.
+UID:20250712-26@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250713
+SUMMARY:Long run 17 km
+DESCRIPTION:Long run – mostly easy; from Wk 28 finish last 15–30 min toward 4:45–5:00/km.
+UID:20250713-27@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250715
+SUMMARY:Intervals 6×800 m (11 km)
+DESCRIPTION:Interval session – 6×800 m @ 10 k pace (~3:55/km); jog 400 m recoveries.
+UID:20250715-28@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250717
+SUMMARY:Easy 8 km
+DESCRIPTION:Easy run – conversational effort.
+UID:20250717-29@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250720
+SUMMARY:Long run 18 km
+DESCRIPTION:Long run – mostly easy; from Wk 28 finish last 15–30 min toward 4:45–5:00/km.
+UID:20250720-30@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250722
+SUMMARY:Threshold 30 min (12 km)
+DESCRIPTION:Threshold run – 30 min steady at ~4:15/km (build to 4:00/km by Aug); should feel “comfortably hard”.
+UID:20250722-31@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250724
+SUMMARY:Easy 8 km
+DESCRIPTION:Easy run – conversational effort.
+UID:20250724-32@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250726
+SUMMARY:Easy 5 km
+DESCRIPTION:Easy run – conversational effort.
+UID:20250726-33@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250727
+SUMMARY:Long run 19 km
+DESCRIPTION:Long run – mostly easy; from Wk 28 finish last 15–30 min toward 4:45–5:00/km.
+UID:20250727-34@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250729
+SUMMARY:Easy 7 km + strides
+DESCRIPTION:Easy run + 4–6 relaxed 100 m strides (neuromuscular tune-up).
+UID:20250729-35@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250803
+SUMMARY:Long run 16 km
+DESCRIPTION:Long run – mostly easy; from Wk 28 finish last 15–30 min toward 4:45–5:00/km.
+UID:20250803-36@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250805
+SUMMARY:Intervals 7×1000 m (13 km)
+DESCRIPTION:Interval session – 7×1000 m @ 5 k pace (~3:45/km); jog 2 min recoveries.
+UID:20250805-37@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250807
+SUMMARY:Easy 8 km
+DESCRIPTION:Easy run – conversational effort.
+UID:20250807-38@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250809
+SUMMARY:Easy 5 km
+DESCRIPTION:Easy run – conversational effort.
+UID:20250809-39@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250810
+SUMMARY:Long run 20 km
+DESCRIPTION:Long run – mostly easy; from Wk 28 finish last 15–30 min toward 4:45–5:00/km.
+UID:20250810-40@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250812
+SUMMARY:Threshold 25 min (11 km)
+DESCRIPTION:Threshold run – 25 min steady at 85-88 % HR (~4:10/km); should feel “comfortably hard”.
+UID:20250812-41@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250814
+SUMMARY:Easy 7 km
+DESCRIPTION:Easy run – conversational effort.
+UID:20250814-42@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250817
+SUMMARY:Long run 18 km
+DESCRIPTION:Long run – mostly easy; from Wk 28 finish last 15–30 min toward 4:45–5:00/km.
+UID:20250817-43@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250819
+SUMMARY:Intervals 5×400 m (7 km)
+DESCRIPTION:Interval session – 5×400 m @ 5 k pace (~3:45/km); jog 400 m recoveries.
+UID:20250819-44@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250821
+SUMMARY:Easy 6 km + strides
+DESCRIPTION:Easy run + 4–6 relaxed 100 m strides (neuromuscular tune-up).
+UID:20250821-45@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250824
+SUMMARY:Long run 14 km
+DESCRIPTION:Long run – mostly easy; from Wk 28 finish last 15–30 min toward 4:45–5:00/km.
+UID:20250824-46@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250825
+SUMMARY:Easy 6 km + strides
+DESCRIPTION:Easy run + 4–6 relaxed 100 m strides (neuromuscular tune-up).
+UID:20250825-47@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250828
+SUMMARY:Intervals 3×200 m (5 km)
+DESCRIPTION:Interval session – 3×200 m fast @ 5 k pace (~3:45/km); full jog recoveries.
+UID:20250828-48@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250830
+SUMMARY:Easy 4 km + strides
+DESCRIPTION:Easy run + 4–6 relaxed 100 m strides (neuromuscular tune-up).
+UID:20250830-49@halfmarathon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250831
+SUMMARY:Half-Marathon Race – 21.1 km
+DESCRIPTION:Race – target 4:16/km average for sub-1h30. Warm-up & cool-down separately.
+UID:20250831-50@halfmarathon
+END:VEVENT
+END:VCALENDAR
