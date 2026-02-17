@@ -1,2 +1,2 @@
 # running
-Runs for half marathon
+Runs for 10k sub 40 min in June
