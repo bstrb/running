@@ -1,341 +1,161 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:10k-sub40-by-june-2026-v3
+PRODID:10k-sub40-by-june-2026-v4
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260217
-SUMMARY:Threshold-lite (3×10 min @ HR 168-176)
-DESCRIPTION:Warm-up 15-20 min easy (HR 135-150\, ~5:00-5:40/km) + 4×20s strides. Main: 3×10 min at threshold-lite (HR 168-176\, ~4:10-4:18/km) with 3 min easy jog (HR <150\, ~5:10-5:50/km). Cool-down 10-15 min easy. Keep all reps controlled and even.
-UID:20260217-33@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260219
-SUMMARY:400s Economy (12-16×400m faster than 10K pace)
-DESCRIPTION:Warm-up 15-20 min easy (HR 135-150\, ~5:00-5:40/km) + drills/strides. Main: 12-16×400m in 92-95s (~3:50-3:58/km) with 200m jog recovery (HR 140-155\, ~5:10-5:50/km). Cap HR around 182-185 late reps. Cool-down 10-15 min easy. Goal = relaxed speed and good mechanics.
-UID:20260219-34@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260222
-SUMMARY:Long Run (18-20 km easy @ HR 135-152)
-DESCRIPTION:Main aerobic builder. Run 18-20 km easy (HR 135-152\, ~4:55-5:35/km). Optional finish every 2-3 weeks: last 20 min steady (HR 155-165\, ~4:30-4:45/km)\, never threshold.
-UID:20260222-35@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260224
-SUMMARY:Steady Run (80-95 min @ HR 155-165)
-DESCRIPTION:Medium aerobic day. 15 min easy (HR 135-150\, ~5:00-5:40/km)\, then 50-65 min steady (HR 155-165\, ~4:28-4:45/km)\, then 10 min easy. Keep this sub-threshold so Thursday quality stays high.
-UID:20260224-36@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260226
-SUMMARY:1K Repeats (6×1 km @ 4:05-4:02/km\, 90s jog)
-DESCRIPTION:Warm-up 15-20 min easy (HR 135-150\, ~5:00-5:40/km) + 4×20s strides. Main: 6×1 km at 4:05-4:02/km (HR 172-182) with 90s jog recovery (HR <155\, ~5:05-5:45/km). Cool-down 10-15 min easy. Smooth form first\, speed second.
-UID:20260226-37@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260228
-SUMMARY:Easy + Strides (Optional) (35-55 min @ HR 135-150)
-DESCRIPTION:Optional recovery run: 35-55 min easy (HR 135-150\, ~5:00-5:45/km) + 6-8×20s relaxed strides (~3k effort\, roughly 3:25-3:45/km) with full walk/jog recovery. Skip if fatigue is high\; Sunday long run is priority.
-UID:20260228-38@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260301
-SUMMARY:Long Run (18-20 km easy @ HR 135-152)
-DESCRIPTION:Run 18-20 km easy (HR 135-152\, ~4:55-5:35/km). Keep cadence light and effort conversational. Optional final 15-20 min steady only if fresh (HR 155-165\, ~4:30-4:45/km).
-UID:20260301-39@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260303
-SUMMARY:Easy + Strides (Deload) (50-60 min @ HR 135-155)
-DESCRIPTION:Deload: 45-55 min easy (HR 135-150\, ~5:00-5:45/km) + 4-6×20s relaxed strides (~3:25-3:45/km) with full recovery. Keep the whole session light and snappy.
-UID:20260303-40@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260305
-SUMMARY:Easy Fartlek (Deload) (8×1 min on/1 min off)
-DESCRIPTION:Deload fartlek. Warm-up 15 min easy (HR 135-150\, ~5:00-5:40/km). Main: 8×(1 min on at ~3:55-4:05/km\, HR rising 165-175 / 1 min off at ~5:20-5:50/km\, HR <155). Cool-down 10-15 min easy. Controlled rhythm\, no strain.
-UID:20260305-41@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260308
-SUMMARY:Long Run Cutdown (Deload) (14-16 km easy @ HR 135-152)
-DESCRIPTION:Deload long run: 14-16 km easy and conversational (HR 135-152\, ~5:00-5:40/km). No steady finish this week.
-UID:20260308-42@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260310
-SUMMARY:Steady Run (80-95 min @ HR 155-165)
-DESCRIPTION:15 min easy (HR 135-150\, ~5:00-5:40/km)\, 50-65 min steady (HR 155-165\, ~4:28-4:45/km)\, 10 min easy. Keep this aerobic and controlled.
-UID:20260310-43@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260312
-SUMMARY:Continuous Threshold (25 min @ HR 168-176)
-DESCRIPTION:Warm-up 20 min easy (HR 135-150\, ~5:00-5:40/km) + 4 strides. Main: 25 min continuous threshold (HR 168-176\, ~4:10-4:17/km). Cool-down 12-15 min easy. Finish feeling strong\, not emptied.
-UID:20260312-44@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-SUMMARY:Easy + Strides (Optional) (35-55 min @ HR 135-150)
-DESCRIPTION:Optional recovery run: 35-55 min easy (HR 135-150\, ~5:00-5:45/km) + 6-8×20s strides (~3:25-3:45/km) with full recovery. Skip if tired.
-UID:20260314-45@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260315
-SUMMARY:Long Run (18-20 km easy @ HR 135-152)
-DESCRIPTION:Run 18-20 km easy (HR 135-152\, ~4:55-5:35/km). If fresh\, close with 15-20 min steady (HR 155-165\, ~4:30-4:45/km).
-UID:20260315-46@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260317
-SUMMARY:Threshold-lite (3×10 min @ HR 168-176)
-DESCRIPTION:Warm-up 15-20 min easy (HR 135-150\, ~5:00-5:40/km) + strides. Main: 3×10 min at threshold-lite (HR 168-176\, ~4:10-4:18/km) with 3 min jog (HR <150\, ~5:10-5:50/km). Cool-down 10-15 min easy.
-UID:20260317-47@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260319
-SUMMARY:1K Repeats (7×1 km @ 4:03-4:00/km\, 90s jog)
-DESCRIPTION:Warm-up 15-20 min easy (HR 135-150\, ~5:00-5:40/km) + strides. Main: 7×1 km @ 4:03-4:00/km (HR 174-183) with 90s jog (HR <155\, ~5:05-5:45/km). Cool-down 10-15 min easy. Keep pace consistency within 2-3 sec.
-UID:20260319-48@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-SUMMARY:Long Run (20-22 km easy @ HR 135-152)
-DESCRIPTION:Key long run: 20-22 km easy (HR 135-152\, ~4:55-5:35/km). Optional final 20 min steady (HR 155-165\, ~4:30-4:45/km) only if legs are good.
-UID:20260322-49@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260324
-SUMMARY:Steady Run (80-95 min @ HR 155-165)
-DESCRIPTION:15 min easy (HR 135-150\, ~5:00-5:40/km)\, then 50-65 min steady (HR 155-165\, ~4:28-4:45/km)\, then easy cool-down. Stay aerobic.
-UID:20260324-50@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260326
-SUMMARY:VO2max 800s (6-8×800m @ ~5K effort)
-DESCRIPTION:Warm-up 20 min easy (HR 135-150\, ~5:00-5:40/km) + strides. Main: 6-8×800m @ ~3:48-3:55/km (HR 178-186) with 2:00-2:30 easy jog (HR <155\, ~5:10-5:50/km). Cool-down 10-15 min easy. Stop at 6 reps if quality drops.
-UID:20260326-51@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260328
-SUMMARY:Easy + Strides (Optional) (35-55 min @ HR 135-150)
-DESCRIPTION:Optional recovery run: 35-55 min easy (HR 135-150\, ~5:00-5:45/km) + 6-8×20s strides (~3:25-3:45/km) with full recovery. Skip if tired.
-UID:20260328-52@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-SUMMARY:Long Run (18-20 km easy @ HR 135-152)
-DESCRIPTION:Run 18-20 km easy (HR 135-152\, ~4:55-5:35/km). Purely easy this week to absorb the VO2 work.
-UID:20260329-53@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260331
-SUMMARY:Easy + Strides (Deload) (50-60 min @ HR 135-155)
-DESCRIPTION:Deload: 45-55 min easy (HR 135-150\, ~5:00-5:45/km) + 4-6×20s strides (~3:25-3:45/km) with full recovery. Keep leg turnover alive without stress.
-UID:20260331-54@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260402
-SUMMARY:Easy Fartlek (Deload) (8×1 min on/1 min off)
-DESCRIPTION:Deload fartlek. Warm-up 15 min easy (HR 135-150\, ~5:00-5:40/km). Main: 8×(1 min on @ ~3:55-4:05/km\, HR 165-175 / 1 min off @ ~5:20-5:50/km\, HR <155). Cool-down 10-15 min easy.
-UID:20260402-55@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-SUMMARY:Long Run Cutdown (Deload) (14-16 km easy @ HR 135-152)
-DESCRIPTION:Deload long run: 14-16 km easy and relaxed (HR 135-152\, ~5:00-5:40/km). Keep it conversational.
-UID:20260405-56@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260407
-SUMMARY:Steady Run (70-90 min @ HR 155-165)
-DESCRIPTION:15 min easy (HR 135-150\, ~5:00-5:40/km) + 45-60 min steady (HR 155-165\, ~4:28-4:45/km) + 10 min easy. Keep this aerobic so Thursday is high quality.
-UID:20260407-57@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260409
-SUMMARY:1K Repeats (6×1 km @ 4:00-3:59/km\, 90s jog)
-DESCRIPTION:Warm-up 15-20 min easy (HR 135-150\, ~5:00-5:40/km) + strides. Main: 6×1 km @ 4:00-3:59/km (HR 175-184) with 90s jog (HR <155\, ~5:05-5:45/km). Cool-down 10-15 min easy. Stop at 5 reps if pace fades.
-UID:20260409-58@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-SUMMARY:Easy + Strides (Optional) (35-55 min @ HR 135-150)
-DESCRIPTION:Optional easy run: 35-55 min (HR 135-150\, ~5:00-5:45/km) + 6-8×20s strides (~3:25-3:45/km) with full recovery. Skip if tired.
-UID:20260411-59@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-SUMMARY:Long Run (18-20 km easy @ HR 135-152)
-DESCRIPTION:Run 18-20 km easy (HR 135-152\, ~4:55-5:35/km). Optional last 20 min steady (HR 155-165\, ~4:30-4:45/km) if fully recovered.
-UID:20260412-60@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260414
-SUMMARY:Threshold-lite (2×15 min @ HR 168-176)
-DESCRIPTION:Warm-up 15-20 min easy (HR 135-150\, ~5:00-5:40/km). Main: 2×15 min threshold-lite (HR 168-176\, ~4:10-4:17/km) with 3 min easy jog (HR <150\, ~5:10-5:50/km). Cool-down 10-15 min easy.
-UID:20260414-61@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260416
-SUMMARY:Race-Pace Continuous (5 km @ 4:03-4:00/km)
-DESCRIPTION:Warm-up 20 min easy (HR 135-150\, ~5:00-5:40/km) + 4 strides. Main: 5 km continuous at controlled race pace (HR 172-180\, ~4:03-4:00/km). Cool-down 12-15 min easy. This is rhythm work\, not all-out.
-UID:20260416-62@10k-sub40
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260419
-SUMMARY:Long Run (18-20 km easy @ HR 135-152)
-DESCRIPTION:Run 18-20 km easy (HR 135-152\, ~4:55-5:35/km). Keep it smooth and conversational.
+SUMMARY:Long Run Easy (16-18 km\, no steady finish)
+DESCRIPTION:Run 16-18 km easy and conversational. First 20-30 min deliberately easy. Keep HR mostly 135-150; okay briefly to 152 late only if pace still feels relaxed. No steady finish. If wind or hills push HR up\, slow down and protect effort. Goal = finish feeling you could keep going 10-15 more min.
 UID:20260419-63@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260421
-SUMMARY:Steady Run (70-90 min @ HR 155-165)
-DESCRIPTION:15 min easy (HR 135-150\, ~5:00-5:40/km) + 45-60 min steady (HR 155-165\, ~4:28-4:45/km) + 10 min easy. Keep controlled and aerobic.
+SUMMARY:Aerobic Support Run + Strides (60-70 min easy)
+DESCRIPTION:60-70 min easy. First 20 min very easy. Keep HR mostly 135-148. If you feel excellent\, final 15-20 min may drift to HR 150-156\, but never turn this into a steady grind. Add 4-6x20s relaxed strides only if legs feel good. Priority = be fresh for Thursday.
 UID:20260421-64@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260423
-SUMMARY:Goal Pace Blocks (3×2 km @ 3:59/km\, 2-3 min jog)
-DESCRIPTION:Warm-up 15-20 min easy (HR 135-150\, ~5:00-5:40/km) + strides. Main: 3×2 km @ 3:59/km (HR 174-183) with 2-3 min easy jog (HR <155\, ~5:10-5:50/km). Cool-down 10-15 min easy. Goal = controlled execution.
+SUMMARY:Goal-Pace Blocks (3x2 km controlled 10K effort)
+DESCRIPTION:Warm-up 20 min easy (HR 135-150\, ~5:00-5:40/km) + 4 strides. Main: 3x2 km at controlled 10K effort. Start rep 1 around ~4:03-4:05/km; reps 2-3 may move toward ~4:00-4:03/km only if breathing stays controlled and form is relaxed. Recover with 2:30-3:00 easy jog (not walk)\, letting HR come down toward <155. Cool-down 10-15 min easy. Success = even effort\, not forcing 3:59 from the start.
 UID:20260423-65@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260425
-SUMMARY:Easy + Strides (Optional) (35-55 min @ HR 135-150)
-DESCRIPTION:Optional easy run: 35-55 min (HR 135-150\, ~5:00-5:45/km) + 6-8×20s strides (~3:25-3:45/km) with full recovery. Skip if fatigue is high.
+SUMMARY:Easy + Strides (Optional) (35-50 min easy)
+DESCRIPTION:Optional recovery run: 35-50 min easy (HR 135-148\, ~5:05-5:50/km) + 4-6x20s relaxed strides with full walk/jog recovery. Skip if fatigue is high or if Thursday still lingers in the legs.
 UID:20260425-66@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260426
-SUMMARY:Long Run (20-22 km easy @ HR 135-152)
-DESCRIPTION:Key long run: 20-22 km easy (HR 135-152\, ~4:55-5:35/km). Optional final 15 min steady (HR 155-165\, ~4:30-4:45/km) if legs are fresh.
+SUMMARY:Long Run Easy (18-20 km\, no steady finish)
+DESCRIPTION:Run 18-20 km easy. First 20-30 min very easy. Keep HR mostly 135-150; okay briefly to 152 late only if still conversational. No steady finish in this block. Because your recent weekly volume is mostly in the low-40s km\, this run should support the plan\, not dominate it.
 UID:20260426-67@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260428
-SUMMARY:Easy + Strides (Deload) (50-60 min @ HR 135-155)
-DESCRIPTION:Deload: 45-55 min easy (HR 135-150\, ~5:00-5:45/km) + 4-6×20s strides (~3:25-3:45/km) with full recovery.
+SUMMARY:Easy + Strides (Deload) (45-55 min easy)
+DESCRIPTION:Deload: 45-55 min easy (HR 135-148\, ~5:05-5:50/km) + 4-6x20s relaxed strides with full recovery. Keep the whole session light and snappy.
 UID:20260428-68@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260430
-SUMMARY:Easy Fartlek (Deload) (8×1 min on/1 min off)
-DESCRIPTION:Deload fartlek. Warm-up 15 min easy (HR 135-150\, ~5:00-5:40/km). Main: 8×(1 min on @ ~3:55-4:05/km\, HR 165-175 / 1 min off @ ~5:20-5:50/km\, HR <155). Cool-down 10-15 min easy.
+SUMMARY:Easy Fartlek (Deload) (8x1 min on / 1 min off)
+DESCRIPTION:Warm-up 15 min easy (HR 135-148\, ~5:05-5:45/km). Main: 8x(1 min on at controlled 10K effort / 1 min off easy jog). On flat calm ground the on-segments may land around ~4:00-4:10/km\, but use feel if windy. Cool-down 10-15 min easy. Finish feeling springy\, not cooked.
 UID:20260430-69@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260503
-SUMMARY:Long Run Cutdown (Deload) (14-16 km easy @ HR 135-152)
-DESCRIPTION:Deload long run: 14-16 km easy and conversational (HR 135-152\, ~5:00-5:40/km). Keep this very easy.
+SUMMARY:Long Run Cutdown (Deload) (14-16 km easy)
+DESCRIPTION:Deload long run: 14-16 km easy and conversational (HR 135-150\, ~5:05-5:45/km). No steady finish. Keep it clearly easier than a normal long run.
 UID:20260503-70@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260505
-SUMMARY:Threshold-lite (2×15 min @ HR 168-176)
-DESCRIPTION:Warm-up 15-20 min easy (HR 135-150\, ~5:00-5:40/km). Main: 2×15 min threshold-lite (HR 168-176\, ~4:10-4:17/km) with 3 min easy jog (HR <150\, ~5:10-5:50/km). Cool-down 10-15 min easy.
+SUMMARY:Threshold-Lite (2x15 min by HR/RPE)
+DESCRIPTION:Warm-up 20 min easy (HR 135-148\, ~5:05-5:45/km) + 4 strides. Main: 2x15 min at controlled threshold-lite\, HR mostly 168-174\, RPE about 7/10. On a flat calm day this may land around ~4:18-4:28/km\, but do not force pace if windy or rolling. 3 min easy jog between reps\, HR ideally down toward the low 150s. Cool-down 10-15 min easy. Finish feeling like you could do a few more minutes if needed.
 UID:20260505-71@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260507
-SUMMARY:5K Benchmark Time Trial (checkpoint)
-DESCRIPTION:Warm-up 20 min easy (HR 135-150\, ~5:00-5:40/km) + drills + 4 strides. Main: 5 km hard but paced (target 19:10-19:40 total\, ~3:50-3:56/km\, HR 178-186). Cool-down 15 min easy. Aim for even/negative split.
+SUMMARY:5K Benchmark Time Trial (paced\, not heroic)
+DESCRIPTION:Warm-up 20 min easy (HR 135-148\, ~5:05-5:45/km) + drills + 4 strides. Main: 5 km hard but paced. Open controlled: first 1-2 km no faster than ~3:58-4:00/km\, then settle by feel. Use this as a checkpoint\, not a make-or-break day. If legs feel flat from Tuesday\, replace with 4x1 km at controlled 10K effort with 2 min easy jog. Cool-down 15 min easy.
 UID:20260507-72@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260509
-SUMMARY:Easy + Strides (Optional) (35-55 min @ HR 135-150)
-DESCRIPTION:Optional easy run: 35-55 min (HR 135-150\, ~5:00-5:45/km) + 6-8×20s strides (~3:25-3:45/km) with full recovery. Skip if tired.
+SUMMARY:Easy + Strides (Optional) (35-50 min easy)
+DESCRIPTION:Optional easy run: 35-50 min easy (HR 135-148\, ~5:05-5:50/km) + 4-6x20s relaxed strides with full recovery. Skip if tired. Sunday remains the priority.
 UID:20260509-73@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260510
-SUMMARY:Long Run (16-18 km easy @ HR 135-152)
-DESCRIPTION:Run 16-18 km easy (HR 135-152\, ~4:55-5:35/km). Keep this lighter after the 5K benchmark.
+SUMMARY:Long Run Easy (15-17 km after benchmark)
+DESCRIPTION:Run 15-17 km easy (HR 135-150\, ~5:05-5:45/km). Keep this lighter after the 5K benchmark. No steady finish.
 UID:20260510-74@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260512
-SUMMARY:Steady Run (70-90 min @ HR 155-165)
-DESCRIPTION:15 min easy (HR 135-150\, ~5:00-5:40/km) + 40-55 min steady (HR 155-165\, ~4:28-4:45/km) + 10 min easy. Keep comfortable enough to feel fresh by Thursday.
+SUMMARY:Aerobic Support + Short Steady (60-70 min total)
+DESCRIPTION:15-20 min easy (HR 135-148\, ~5:05-5:45/km)\, then 20-30 min light steady (HR 150-158\, clearly below threshold)\, then easy running to 60-70 min total. If there is any lingering fatigue from May 7\, make the whole run easy and skip the steady block. Goal = support Thursday\, not compete with it.
 UID:20260512-75@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260514
-SUMMARY:Race-Pace Continuous (6-7 km @ 4:03-3:59/km)
-DESCRIPTION:Warm-up 20 min easy (HR 135-150\, ~5:00-5:40/km) + 4 strides. Main: 6-7 km continuous at ~4:03-3:59/km (HR 173-182). Cool-down 12-15 min easy. Strong and smooth\, never all-out.
+SUMMARY:Race-Pace Continuous (5-6 km controlled 10K effort)
+DESCRIPTION:Warm-up 20 min easy (HR 135-148\, ~5:05-5:45/km) + 4 strides. Main: 5-6 km continuous at controlled 10K effort. First 2 km deliberately calm\, around ~4:04-4:06/km on flat calm terrain; only move toward ~4:00-4:03/km if you still feel smooth. If windy or HR surges unusually early\, convert to 2x3 km with 3 min easy jog. Cool-down 12-15 min easy. This is rhythm work\, not a time trial.
 UID:20260514-76@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260517
-SUMMARY:Long Run (14-16 km easy @ HR 135-152)
-DESCRIPTION:Taper long run: 14-16 km easy (HR 135-152\, ~5:00-5:35/km). No steady finish.
+SUMMARY:Long Run (14-16 km easy\, taper support)
+DESCRIPTION:Taper long run: 14-16 km easy (HR 135-150\, ~5:05-5:45/km). No steady finish. Keep this smooth and unremarkable.
 UID:20260517-77@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260519
-SUMMARY:Easy + Strides (45-60 min @ HR 135-150)
-DESCRIPTION:Taper/maintain: 40-55 min easy (HR 135-150\, ~5:00-5:40/km) + 6×20s strides (~3:25-3:45/km) with full recovery. Stay springy\, not tired.
+SUMMARY:Easy + Strides (40-55 min easy)
+DESCRIPTION:40-55 min easy (HR 135-148\, ~5:05-5:45/km) + 6x20s relaxed strides with full recovery. Goal = feel springy\, not tired.
 UID:20260519-78@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260521
-SUMMARY:Sharpener (3×1 km @ 3:59/km\, 3 min jog)
-DESCRIPTION:Warm-up 15-20 min easy (HR 135-150\, ~5:00-5:40/km) + 4 strides. Main: 3×1 km @ 3:59/km (HR 172-180) with 3 min easy jog (HR <150\, ~5:10-5:50/km). Cool-down 12-15 min easy. Finish feeling fresh.
+SUMMARY:Sharpener (3x1 km at controlled 10K pace)
+DESCRIPTION:Warm-up 15-20 min easy (HR 135-148\, ~5:05-5:45/km) + 4 strides. Main: 3x1 km at controlled 10K pace\, roughly ~4:00-4:03/km\, with 3 min easy jog. Keep the first rep the easiest; finish feeling fresh enough that one more rep would be possible. Cool-down 12-15 min easy.
 UID:20260521-79@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260523
-SUMMARY:Easy + Strides (Optional) (35-55 min @ HR 135-150)
-DESCRIPTION:Optional easy run: 35-55 min (HR 135-150\, ~5:00-5:45/km) + 6×20s relaxed strides (~3:25-3:45/km). Keep it light.
+SUMMARY:Easy + Strides (Optional) (30-45 min easy)
+DESCRIPTION:Optional easy run: 30-45 min easy (HR 135-148\, ~5:10-5:50/km) + 4-6x20s relaxed strides only if you feel stale. Skip if there is any extra fatigue.
 UID:20260523-80@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260524
-SUMMARY:Long Run (12-14 km easy @ HR 135-152)
-DESCRIPTION:Taper support run: 12-14 km easy (HR 135-152\, ~5:00-5:40/km). Prioritize recovery and freshness.
+SUMMARY:Long Run (12-14 km easy)
+DESCRIPTION:Taper support run: 12-14 km easy (HR 135-150\, ~5:10-5:45/km). Prioritize recovery and freshness. No progression.
 UID:20260524-81@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260526
-SUMMARY:Easy + Strides (Deload) (50-60 min @ HR 135-155)
-DESCRIPTION:Taper week: 40-50 min easy (HR 135-150\, ~5:00-5:45/km) + 4-6×20s strides (~3:25-3:45/km) with full recovery.
+SUMMARY:Easy + Strides (40-50 min easy)
+DESCRIPTION:Taper week: 40-50 min easy (HR 135-148\, ~5:10-5:50/km) + 4-6x20s relaxed strides with full recovery. Keep the run boring and light.
 UID:20260526-82@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260528
-SUMMARY:Tune-up Fartlek (6×1 min @ 10K pace)
-DESCRIPTION:Warm-up 15 min easy (HR 135-150\, ~5:00-5:40/km). Main: 6×(1 min @ ~3:58-4:02/km\, HR 168-176 / 90s easy @ ~5:20-5:50/km\, HR <155). Cool-down 10-15 min easy. Keep this light and controlled.
+SUMMARY:Tune-up Fartlek (6x1 min at 10K effort)
+DESCRIPTION:Warm-up 15 min easy (HR 135-148\, ~5:10-5:45/km). Main: 6x(1 min at controlled 10K effort / 90s easy jog). On flat calm ground the on-segments may land around ~3:58-4:05/km\, but keep them smooth and never all-out. Cool-down 10-15 min easy.
 UID:20260528-83@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260531
-SUMMARY:Pre-Race Easy (8-10 km @ HR 135-150)
-DESCRIPTION:Run 8-10 km easy (HR 135-150\, ~5:05-5:45/km) + 4×20s strides (~3:25-3:45/km) with full recovery. Stop fresh.
+SUMMARY:Pre-Race Easy (8-10 km easy + strides)
+DESCRIPTION:Run 8-10 km easy (HR 135-148\, ~5:10-5:50/km) + 4x20s relaxed strides with full recovery. Stop while feeling fresh.
 UID:20260531-84@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260602
-SUMMARY:Easy + Strides (35-45 min @ HR 135-150)
-DESCRIPTION:35-45 min easy (HR 135-150\, ~5:05-5:45/km) + 4-6×20s relaxed strides (~3:25-3:45/km). Keep legs awake and effort low.
+SUMMARY:Easy + Strides (35-40 min easy)
+DESCRIPTION:35-40 min easy (HR 135-148\, ~5:10-5:50/km) + 4-6x20s relaxed strides. Keep legs awake and effort low.
 UID:20260602-85@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260604
-SUMMARY:Race-Week Sharpener (2×2 km @ 3:59/km)
-DESCRIPTION:Warm-up 15-20 min easy (HR 135-150\, ~5:05-5:45/km) + 4 strides. Main: 2×2 km @ 3:59/km (HR 170-178) with 3 min easy jog (HR <150\, ~5:15-5:55/km). Cool-down 10-12 min easy. Finish confident and fresh.
+SUMMARY:Race-Week Sharpener (2x1.5 km at controlled 10K effort)
+DESCRIPTION:Warm-up 15-20 min easy (HR 135-148\, ~5:10-5:50/km) + 4 strides. Main: 2x1.5 km at controlled 10K effort\, roughly ~4:00-4:03/km\, with 3 min easy jog. Do not race this workout. Finish confident and fresh. Cool-down 10-12 min easy.
 UID:20260604-86@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260606
 SUMMARY:Pre-Race Shakeout (20-30 min easy + strides)
-DESCRIPTION:20-30 min easy (HR 130-145\, ~5:15-5:50/km) + 4×20s strides (~3:25-3:45/km) with full recovery. Keep it short and light.
+DESCRIPTION:20-30 min easy (HR 130-145\, ~5:15-5:55/km) + 4x20s relaxed strides with full recovery. Keep it short\, calm\, and light.
 UID:20260606-87@10k-sub40
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260607
 SUMMARY:10K Race / Time Trial (Sub-40 attempt)
-DESCRIPTION:Warm-up 20 min easy (HR 135-150\, ~5:05-5:45/km) + drills + 4 strides. Race plan: km 1-3 at 4:01-4:00/km (HR 170-178)\, km 4-7 at 3:59/km (HR 176-183)\, km 8-10 push 3:56-3:59/km (HR 182-188). Cool-down 10-15 min easy.
+DESCRIPTION:Warm-up 20 min easy (HR 135-148\, ~5:10-5:50/km) + drills + 4 strides. Race plan: first 2 km slightly conservative (~4:02-4:01/km or controlled effort)\, km 3-7 settle near goal effort (~4:00/km if breathing and form stay smooth)\, km 8-10 race by feel and squeeze only if still in control. In wind or on rolling ground\, protect effort rather than chasing exact splits. If you feel in trouble by 5 km\, reset for 1 km instead of forcing. Cool-down 10-15 min easy.
 UID:20260607-88@10k-sub40
 END:VEVENT
 END:VCALENDAR
