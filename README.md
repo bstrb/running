@@ -1,2 +1,2 @@
 # running
-Runs for 10k sub 40 min in June
+Runs for HM sub 1:30 30th august
