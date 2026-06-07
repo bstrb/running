@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:sub1h30-halfmarathon-high-volume-specific-plan
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260609
+SUMMARY:Zone 2 Medium-Long
+DESCRIPTION:Week 1 (Build 1). Planned distance: 14 km. 14 km easy Zone 2. First 3 km at HR 135-145 and about 5:05-5:35/km. Then settle into HR 140-150 and about 4:55-5:20/km. If you feel very fresh, finish with 4 x 20 s relaxed strides at roughly 3K-5K feel with full walk/jog recovery.
+UID:2026-06-09-tue-1@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260611
+SUMMARY:Threshold Reps
+DESCRIPTION:Week 1 (Build 1). Planned distance: 15 km. Total about 15 km. Warm-up 3 km easy at HR 135-145 and about 5:05-5:35/km, then 4 relaxed strides. Main: 3 x 10 min at controlled threshold, HR about 168-176, roughly 4:14-4:22/km, with 3 min easy jog between reps at HR below 150 and about 5:10-5:45/km. Cool-down easy. The first rep should feel the easiest.
+UID:2026-06-11-thu-1@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260614
+SUMMARY:Long Easy
+DESCRIPTION:Week 1 (Build 1). Planned distance: 21 km. 21 km easy Zone 2. First 5 km at HR 135-145 and about 5:05-5:35/km. Then settle into HR 140-150 and about 4:55-5:20/km. No fast finish. If HR drifts above 152 before the final 3 km, back off.
+UID:2026-06-14-sun-1@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260616
+SUMMARY:Zone 2 Medium-Long
+DESCRIPTION:Week 2 (Build 2). Planned distance: 15 km. 15 km easy Zone 2. Keep the whole run controlled. Aim HR 140-150 for most of the run, roughly 4:55-5:20/km. Start easier than that for the first 2-3 km. Optional 4-6 x 20 s relaxed strides only if legs feel good.
+UID:2026-06-16-tue-2@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260618
+SUMMARY:Cruise Reps
+DESCRIPTION:Week 2 (Build 2). Planned distance: 16 km. Total about 16 km. Warm-up 3 km easy at HR 135-145 and about 5:05-5:35/km. Main: 4 x 2 km at controlled threshold / strong aerobic effort, HR about 166-174, roughly 4:16-4:24/km, with 2 min easy jog between reps at HR below 150 and about 5:10-5:45/km. Cool-down easy. Keep all reps within a few seconds of each other.
+UID:2026-06-18-thu-2@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260621
+SUMMARY:Long Easy
+DESCRIPTION:Week 2 (Build 2). Planned distance: 22 km. 22 km easy Zone 2. First 5 km very calm. Most of the run should sit at HR 140-150 and roughly 4:55-5:20/km. No progression and no steady finish.
+UID:2026-06-21-sun-2@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260623
+SUMMARY:Zone 2 Medium-Long
+DESCRIPTION:Week 3 (Build 3). Planned distance: 15 km. 15 km easy Zone 2 only. HR 140-150 for most of the run, about 4:55-5:20/km, but start easier for the first 3 km. Optional 4 x 20 s strides if you feel light.
+UID:2026-06-23-tue-3@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260625
+SUMMARY:Continuous Threshold
+DESCRIPTION:Week 3 (Build 3). Planned distance: 16 km. Total about 16 km. Warm-up 4 km easy at HR 135-145 and about 5:05-5:35/km, then 4 strides. Main: 30 min continuous threshold at HR 168-176, roughly 4:14-4:22/km. Cool-down easy. The effort should feel controlled and repeatable, not like a race.
+UID:2026-06-25-thu-3@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260628
+SUMMARY:Long Easy
+DESCRIPTION:Week 3 (Build 3). Planned distance: 23 km. 23 km easy Zone 2. HR 140-150 for the main portion, roughly 4:55-5:20/km. If conditions are hot or windy, prioritize HR and ease over pace.
+UID:2026-06-28-sun-3@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260630
+SUMMARY:Zone 2 Easy
+DESCRIPTION:Week 4 (Deload 1). Planned distance: 13 km. 13 km easy Zone 2. HR mostly 135-148 and about 5:00-5:30/km. Purely aerobic.
+UID:2026-06-30-tue-4@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260702
+SUMMARY:Light Fartlek
+DESCRIPTION:Week 4 (Deload 1). Planned distance: 14 km. Total about 14 km. Warm-up 3 km easy at HR 135-145 and about 5:05-5:35/km. Main: 10 x 1 min on / 1 min off. On reps at smooth 10K effort, HR rising through about 165-175, roughly 3:58-4:08/km on flat calm terrain. Off reps as easy jog, HR back toward 145-155 and about 5:10-5:50/km. Cool-down easy. Finish feeling fresh.
+UID:2026-07-02-thu-4@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260705
+SUMMARY:Long Easy
+DESCRIPTION:Week 4 (Deload 1). Planned distance: 19 km. 19 km easy Zone 2. HR mostly 140-150, pace about 4:55-5:20/km. No fast finish.
+UID:2026-07-05-sun-4@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260707
+SUMMARY:Zone 2 Medium-Long
+DESCRIPTION:Week 5 (HM Build 1). Planned distance: 16 km. 16 km easy Zone 2. First 3 km easy at HR 135-145, then most of the run at HR 140-150 and about 4:55-5:20/km. Optional 4 x 20 s strides only if fresh.
+UID:2026-07-07-tue-5@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260709
+SUMMARY:HM Pace Blocks
+DESCRIPTION:Week 5 (HM Build 1). Planned distance: 16 km. Total about 16 km. Warm-up 3 km easy at HR 135-145 and about 5:05-5:35/km, then 4 strides. Main: 3 x 3 km at controlled half-marathon effort, HR about 162-170, roughly 4:16-4:22/km, with 3 min easy jog between reps at HR below 150 and about 5:10-5:45/km. Cool-down easy. Goal = calm and even, not pressing.
+UID:2026-07-09-thu-5@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260712
+SUMMARY:Long Easy
+DESCRIPTION:Week 5 (HM Build 1). Planned distance: 24 km. 24 km easy Zone 2. Most of the run at HR 140-150 and about 4:55-5:20/km. Keep it genuinely easy the whole way.
+UID:2026-07-12-sun-5@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260714
+SUMMARY:Zone 2 Medium-Long
+DESCRIPTION:Week 6 (HM Build 2). Planned distance: 16 km. 16 km easy Zone 2. HR mostly 140-150 and about 4:55-5:20/km. Resist the urge to push late.
+UID:2026-07-14-tue-6@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260716
+SUMMARY:Threshold Reps
+DESCRIPTION:Week 6 (HM Build 2). Planned distance: 17 km. Total about 17 km. Warm-up 3 km easy at HR 135-145 and about 5:05-5:35/km, then 4 strides. Main: 4 x 10 min at threshold, HR 168-176, roughly 4:14-4:22/km, with 2 min easy jog between reps at HR below 150 and about 5:10-5:45/km. Cool-down easy. Rep 1 should be the calmest.
+UID:2026-07-16-thu-6@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260719
+SUMMARY:Long Easy
+DESCRIPTION:Week 6 (HM Build 2). Planned distance: 25 km. 25 km easy Zone 2. HR mostly 140-150, pace about 4:55-5:20/km. No progression.
+UID:2026-07-19-sun-6@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260721
+SUMMARY:Zone 2 Medium-Long
+DESCRIPTION:Week 7 (HM Build 3). Planned distance: 17 km. 17 km easy Zone 2. Aim for HR 140-150 and about 4:55-5:20/km after a very easy opening 3 km. Optional 4-6 x 20 s relaxed strides if fresh.
+UID:2026-07-21-tue-7@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260723
+SUMMARY:Continuous HM Effort
+DESCRIPTION:Week 7 (HM Build 3). Planned distance: 17 km. Total about 17 km. Warm-up 4 km easy at HR 135-145 and about 5:05-5:35/km, then 4 strides. Main: 8 km continuous at controlled half-marathon effort, HR about 162-170, roughly 4:16-4:22/km. Cool-down easy. Only edge quicker if it stays very smooth.
+UID:2026-07-23-thu-7@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260726
+SUMMARY:Long Easy
+DESCRIPTION:Week 7 (HM Build 3). Planned distance: 26 km. 26 km easy Zone 2. HR mostly 140-150, pace roughly 4:55-5:20/km. Keep effort stable and patient.
+UID:2026-07-26-sun-7@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260728
+SUMMARY:Zone 2 Easy
+DESCRIPTION:Week 8 (Deload 2). Planned distance: 14 km. 14 km easy Zone 2. HR mostly 135-148, roughly 5:00-5:30/km. Purely aerobic.
+UID:2026-07-28-tue-8@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260730
+SUMMARY:1K Rhythm Reps
+DESCRIPTION:Week 8 (Deload 2). Planned distance: 15 km. Total about 15 km. Warm-up 3 km easy at HR 135-145 and about 5:05-5:35/km, then 4 strides. Main: 5 x 1 km at around 10K effort, HR rising through about 170-180, roughly 3:58-4:06/km, with 90 s easy jog between reps at HR below 150 and about 5:10-5:45/km. Cool-down easy. Rhythm first, not proving fitness.
+UID:2026-07-30-thu-8@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260802
+SUMMARY:Long Easy
+DESCRIPTION:Week 8 (Deload 2). Planned distance: 22 km. 22 km easy Zone 2. HR mostly 140-150 and about 4:55-5:20/km. No fast finish.
+UID:2026-08-02-sun-8@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260804
+SUMMARY:Zone 2 Medium-Long
+DESCRIPTION:Week 9 (Peak 1). Planned distance: 17 km. 17 km easy Zone 2. First 3 km easy at HR 135-145, then settle into HR 140-150 and about 4:55-5:20/km.
+UID:2026-08-04-tue-9@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260806
+SUMMARY:HM Pace Blocks
+DESCRIPTION:Week 9 (Peak 1). Planned distance: 18 km. Total about 18 km. Warm-up 4 km easy at HR 135-145 and about 5:05-5:35/km, then 4 strides. Main: 2 x 5 km at controlled half-marathon effort, HR about 162-170, roughly 4:16-4:22/km, with 4 min easy jog at HR below 150 and about 5:10-5:45/km. Cool-down easy. Goal = rhythm, not strain.
+UID:2026-08-06-thu-9@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260809
+SUMMARY:Long Easy
+DESCRIPTION:Week 9 (Peak 1). Planned distance: 27 km. 27 km easy Zone 2. HR mostly 140-150 and about 4:55-5:20/km. Keep it under control the whole way.
+UID:2026-08-09-sun-9@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260811
+SUMMARY:Zone 2 Medium-Long
+DESCRIPTION:Week 10 (Peak 2). Planned distance: 16 km. 16 km easy Zone 2. HR mostly 140-150 and about 4:55-5:20/km. Optional 4 x 20 s relaxed strides if fresh.
+UID:2026-08-11-tue-10@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260813
+SUMMARY:Threshold + HM Finish
+DESCRIPTION:Week 10 (Peak 2). Planned distance: 17 km. Total about 17 km. Warm-up 3 km easy at HR 135-145 and about 5:05-5:35/km, then 4 strides. Main: 20 min threshold at HR 168-176 and roughly 4:14-4:22/km, 5 min easy jog, then 4 km at half-marathon effort at HR 162-170 and roughly 4:16-4:22/km. Cool-down easy.
+UID:2026-08-13-thu-10@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260816
+SUMMARY:Long Easy with Controlled Finish
+DESCRIPTION:Week 10 (Peak 2). Planned distance: 26 km. 26 km total. First 20 km easy Zone 2 at HR 140-150 and about 4:55-5:20/km. Final 6 km steady but controlled at HR 150-158 and about 4:35-4:50/km. Skip the finish block if tired or conditions are poor.
+UID:2026-08-16-sun-10@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260818
+SUMMARY:Zone 2 Easy
+DESCRIPTION:Week 11 (Taper 1). Planned distance: 13 km. 13 km easy Zone 2. HR mostly 135-148 and about 5:00-5:30/km.
+UID:2026-08-18-tue-11@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260820
+SUMMARY:HM Tune-Up
+DESCRIPTION:Week 11 (Taper 1). Planned distance: 15 km. Total about 15 km. Warm-up 3 km easy at HR 135-145 and about 5:05-5:35/km, then 4 strides. Main: 2 x 4 km at controlled half-marathon effort, HR about 162-170, roughly 4:16-4:22/km, with 3 min easy jog between reps at HR below 150 and about 5:10-5:45/km. Cool-down easy. Smooth and confident.
+UID:2026-08-20-thu-11@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260823
+SUMMARY:Long Easy
+DESCRIPTION:Week 11 (Taper 1). Planned distance: 18 km. 18 km easy Zone 2. HR mostly 140-150 and about 4:55-5:20/km. No progression.
+UID:2026-08-23-sun-11@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260825
+SUMMARY:Zone 2 Easy + Strides
+DESCRIPTION:Week 12 (Race Week). Planned distance: 10 km. 10 km easy Zone 2. HR mostly 135-145 and about 5:05-5:35/km, then 4-6 x 20 s relaxed strides with full recovery.
+UID:2026-08-25-tue-12@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260827
+SUMMARY:Sharpener
+DESCRIPTION:Week 12 (Race Week). Planned distance: 10 km. Total about 10 km. Warm-up 3 km easy at HR 135-145 and about 5:05-5:35/km, then 4 strides. Main: 3 x 1 km at goal half-marathon effort, HR about 160-168, roughly 4:16-4:20/km, with 2 min easy jog. Cool-down easy. Finish feeling fresh.
+UID:2026-08-27-thu-12@hmhighvolspecific
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260830
+SUMMARY:Half Marathon Race / Time Trial
+DESCRIPTION:Week 12 (Race Week). Planned distance: 21.1 km. Half marathon. Warm-up 10-15 min easy plus 4 short strides. Race plan: first 3 km at about 4:18-4:20/km and controlled HR, middle 10 km around 4:15-4:18/km if smooth, final 5-8 km race by feel. Do not bank time early.
+UID:2026-08-30-sun-12@hmhighvolspecific
+END:VEVENT
+END:VCALENDAR
