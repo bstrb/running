@@ -1,161 +1,314 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:10k-sub40-by-june-2026-v4
+PRODID:-//OpenAI//HM Plan Resumed Aug 2026//EN
 CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Half Marathon Build - Resumed Aug 11
+X-WR-CALDESC:Paused during vacation and restarted with two re-entry weeks.
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-SUMMARY:Long Run Easy (16-18 km\, no steady finish)
-DESCRIPTION:Run 16-18 km easy and conversational. First 20-30 min deliberately easy. Keep HR mostly 135-150; okay briefly to 152 late only if pace still feels relaxed. No steady finish. If wind or hills push HR up\, slow down and protect effort. Goal = finish feeling you could keep going 10-15 more min.
-UID:20260419-63@10k-sub40
+DTSTART;VALUE=DATE:20260811
+SUMMARY:Easy re-entry
+DESCRIPTION:Week 1 (Re-entry 1). Planned distance: 12 km. 12 km easy. Kee
+ p HR mostly 135-148 and effort conversational. Pace is secondary\; on fl
+ at cool ground it may be about 5:05-5:40/km. No fast finish. Optional 4 
+ x 20 s relaxed strides only if the legs feel normal.
+UID:2026-08-11-tue-1@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260421
-SUMMARY:Aerobic Support Run + Strides (60-70 min easy)
-DESCRIPTION:60-70 min easy. First 20 min very easy. Keep HR mostly 135-148. If you feel excellent\, final 15-20 min may drift to HR 150-156\, but never turn this into a steady grind. Add 4-6x20s relaxed strides only if legs feel good. Priority = be fresh for Thursday.
-UID:20260421-64@10k-sub40
+DTSTART;VALUE=DATE:20260813
+SUMMARY:Controlled 1K reps
+DESCRIPTION:Week 1 (Re-entry 1). Planned distance: 13 km. About 13 km tot
+ al. Warm up 3 km easy\, then 4 relaxed strides. Main: 4 x 1 km at contro
+ lled 10K effort\, roughly 4:05-4:12/km on flat cool ground\, with 90 s e
+ asy jog. HR may rise through about 168-178. Add a fifth rep only if rep 
+ 4 still feels controlled. Cool down easy.
+UID:2026-08-13-thu-1@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260423
-SUMMARY:Goal-Pace Blocks (3x2 km controlled 10K effort)
-DESCRIPTION:Warm-up 20 min easy (HR 135-150\, ~5:00-5:40/km) + 4 strides. Main: 3x2 km at controlled 10K effort. Start rep 1 around ~4:03-4:05/km; reps 2-3 may move toward ~4:00-4:03/km only if breathing stays controlled and form is relaxed. Recover with 2:30-3:00 easy jog (not walk)\, letting HR come down toward <155. Cool-down 10-15 min easy. Success = even effort\, not forcing 3:59 from the start.
-UID:20260423-65@10k-sub40
+DTSTART;VALUE=DATE:20260816
+SUMMARY:Long easy re-entry
+DESCRIPTION:Week 1 (Re-entry 1). Planned distance: 18 km. 18 km easy. Kee
+ p HR mostly 135-150\, remain conversational\, and do not progress late. 
+ This is a return-to-running long run\, not a fitness test.
+UID:2026-08-16-sun-1@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-SUMMARY:Easy + Strides (Optional) (35-50 min easy)
-DESCRIPTION:Optional recovery run: 35-50 min easy (HR 135-148\, ~5:05-5:50/km) + 4-6x20s relaxed strides with full walk/jog recovery. Skip if fatigue is high or if Thursday still lingers in the legs.
-UID:20260425-66@10k-sub40
+DTSTART;VALUE=DATE:20260818
+SUMMARY:Zone 2 medium-long
+DESCRIPTION:Week 2 (Re-entry 2). Planned distance: 14 km. 14 km easy Zone
+  2. Start very gently and keep HR mostly 140-150. On flat cool ground\, 
+ pace may be about 5:00-5:30/km. Optional 4 x 20 s relaxed strides if fre
+ sh.
+UID:2026-08-18-tue-2@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-SUMMARY:Long Run Easy (18-20 km\, no steady finish)
-DESCRIPTION:Run 18-20 km easy. First 20-30 min very easy. Keep HR mostly 135-150; okay briefly to 152 late only if still conversational. No steady finish in this block. Because your recent weekly volume is mostly in the low-40s km\, this run should support the plan\, not dominate it.
-UID:20260426-67@10k-sub40
+DTSTART;VALUE=DATE:20260820
+SUMMARY:Threshold re-entry
+DESCRIPTION:Week 2 (Re-entry 2). Planned distance: 15 km. About 15 km tot
+ al. Warm up 3 km easy plus 4 strides. Main: 3 x 10 min at controlled thr
+ eshold\, HR about 168-176 and roughly 4:16-4:24/km on flat cool ground\,
+  with 3 min easy jog. Cool down easy. Finish feeling that another short 
+ rep would have been possible.
+UID:2026-08-20-thu-2@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260428
-SUMMARY:Easy + Strides (Deload) (45-55 min easy)
-DESCRIPTION:Deload: 45-55 min easy (HR 135-148\, ~5:05-5:50/km) + 4-6x20s relaxed strides with full recovery. Keep the whole session light and snappy.
-UID:20260428-68@10k-sub40
+DTSTART;VALUE=DATE:20260823
+SUMMARY:Long easy
+DESCRIPTION:Week 2 (Re-entry 2). Planned distance: 21 km. 21 km easy Zone
+  2. Keep HR mostly 140-150. No progression and no steady finish.
+UID:2026-08-23-sun-2@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260430
-SUMMARY:Easy Fartlek (Deload) (8x1 min on / 1 min off)
-DESCRIPTION:Warm-up 15 min easy (HR 135-148\, ~5:05-5:45/km). Main: 8x(1 min on at controlled 10K effort / 1 min off easy jog). On flat calm ground the on-segments may land around ~4:00-4:10/km\, but use feel if windy. Cool-down 10-15 min easy. Finish feeling springy\, not cooked.
-UID:20260430-69@10k-sub40
+DTSTART;VALUE=DATE:20260825
+SUMMARY:Zone 2 medium-long
+DESCRIPTION:Week 3 (HM build 1). Planned distance: 16 km. 16 km easy Zone
+  2. First 3 km deliberately easy\, then settle into HR 140-150. Optional
+  4 x 20 s relaxed strides only if fresh.
+UID:2026-08-25-tue-3@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-SUMMARY:Long Run Cutdown (Deload) (14-16 km easy)
-DESCRIPTION:Deload long run: 14-16 km easy and conversational (HR 135-150\, ~5:05-5:45/km). No steady finish. Keep it clearly easier than a normal long run.
-UID:20260503-70@10k-sub40
+DTSTART;VALUE=DATE:20260827
+SUMMARY:HM pace blocks
+DESCRIPTION:Week 3 (HM build 1). Planned distance: 16 km. About 16 km tot
+ al. Warm up 3 km easy plus 4 strides. Main: 3 x 3 km at controlled half-
+ marathon effort\, roughly 4:16-4:22/km and HR about 162-172\, with 3 min
+  easy jog. Cool down easy. Keep rep 1 calm and all three reps even.
+UID:2026-08-27-thu-3@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260505
-SUMMARY:Threshold-Lite (2x15 min by HR/RPE)
-DESCRIPTION:Warm-up 20 min easy (HR 135-148\, ~5:05-5:45/km) + 4 strides. Main: 2x15 min at controlled threshold-lite\, HR mostly 168-174\, RPE about 7/10. On a flat calm day this may land around ~4:18-4:28/km\, but do not force pace if windy or rolling. 3 min easy jog between reps\, HR ideally down toward the low 150s. Cool-down 10-15 min easy. Finish feeling like you could do a few more minutes if needed.
-UID:20260505-71@10k-sub40
+DTSTART;VALUE=DATE:20260830
+SUMMARY:Long easy
+DESCRIPTION:Week 3 (HM build 1). Planned distance: 24 km. 24 km easy Zone
+  2. Keep HR mostly 140-150 and stay patient. No fast finish.
+UID:2026-08-30-sun-3@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260507
-SUMMARY:5K Benchmark Time Trial (paced\, not heroic)
-DESCRIPTION:Warm-up 20 min easy (HR 135-148\, ~5:05-5:45/km) + drills + 4 strides. Main: 5 km hard but paced. Open controlled: first 1-2 km no faster than ~3:58-4:00/km\, then settle by feel. Use this as a checkpoint\, not a make-or-break day. If legs feel flat from Tuesday\, replace with 4x1 km at controlled 10K effort with 2 min easy jog. Cool-down 15 min easy.
-UID:20260507-72@10k-sub40
+DTSTART;VALUE=DATE:20260901
+SUMMARY:Zone 2 medium-long
+DESCRIPTION:Week 4 (HM build 2). Planned distance: 16 km. 16 km easy Zone
+  2. HR mostly 140-150. Resist the urge to push late.
+UID:2026-09-01-tue-4@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260509
-SUMMARY:Easy + Strides (Optional) (35-50 min easy)
-DESCRIPTION:Optional easy run: 35-50 min easy (HR 135-148\, ~5:05-5:50/km) + 4-6x20s relaxed strides with full recovery. Skip if tired. Sunday remains the priority.
-UID:20260509-73@10k-sub40
+DTSTART;VALUE=DATE:20260903
+SUMMARY:Threshold reps
+DESCRIPTION:Week 4 (HM build 2). Planned distance: 17 km. About 17 km tot
+ al. Warm up 3 km easy plus 4 strides. Main: 4 x 10 min at threshold\, HR
+  about 168-176 and roughly 4:14-4:22/km\, with 2 min easy jog. Cool down
+  easy. Rep 1 should be the calmest.
+UID:2026-09-03-thu-4@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-SUMMARY:Long Run Easy (15-17 km after benchmark)
-DESCRIPTION:Run 15-17 km easy (HR 135-150\, ~5:05-5:45/km). Keep this lighter after the 5K benchmark. No steady finish.
-UID:20260510-74@10k-sub40
+DTSTART;VALUE=DATE:20260906
+SUMMARY:Long easy
+DESCRIPTION:Week 4 (HM build 2). Planned distance: 25 km. 25 km easy Zone
+  2. HR mostly 140-150. No progression.
+UID:2026-09-06-sun-4@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260512
-SUMMARY:Aerobic Support + Short Steady (60-70 min total)
-DESCRIPTION:15-20 min easy (HR 135-148\, ~5:05-5:45/km)\, then 20-30 min light steady (HR 150-158\, clearly below threshold)\, then easy running to 60-70 min total. If there is any lingering fatigue from May 7\, make the whole run easy and skip the steady block. Goal = support Thursday\, not compete with it.
-UID:20260512-75@10k-sub40
+DTSTART;VALUE=DATE:20260908
+SUMMARY:Zone 2 medium-long
+DESCRIPTION:Week 5 (HM build 3). Planned distance: 17 km. 17 km easy Zone
+  2. Start very gently\, then keep HR mostly 140-150. Optional 4-6 x 20 s
+  relaxed strides if fresh.
+UID:2026-09-08-tue-5@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260514
-SUMMARY:Race-Pace Continuous (5-6 km controlled 10K effort)
-DESCRIPTION:Warm-up 20 min easy (HR 135-148\, ~5:05-5:45/km) + 4 strides. Main: 5-6 km continuous at controlled 10K effort. First 2 km deliberately calm\, around ~4:04-4:06/km on flat calm terrain; only move toward ~4:00-4:03/km if you still feel smooth. If windy or HR surges unusually early\, convert to 2x3 km with 3 min easy jog. Cool-down 12-15 min easy. This is rhythm work\, not a time trial.
-UID:20260514-76@10k-sub40
+DTSTART;VALUE=DATE:20260910
+SUMMARY:Continuous HM effort
+DESCRIPTION:Week 5 (HM build 3). Planned distance: 17 km. About 17 km tot
+ al. Warm up 4 km easy plus 4 strides. Main: 8 km continuous at controlle
+ d half-marathon effort\, roughly 4:16-4:22/km and HR about 162-172. Cool
+  down easy. Do not turn this into a time trial.
+UID:2026-09-10-thu-5@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-SUMMARY:Long Run (14-16 km easy\, taper support)
-DESCRIPTION:Taper long run: 14-16 km easy (HR 135-150\, ~5:05-5:45/km). No steady finish. Keep this smooth and unremarkable.
-UID:20260517-77@10k-sub40
+DTSTART;VALUE=DATE:20260913
+SUMMARY:Long easy
+DESCRIPTION:Week 5 (HM build 3). Planned distance: 26 km. 26 km easy Zone
+  2. Keep effort stable and conversational. Pace is irrelevant if hills\,
+  heat\, or wind raise HR.
+UID:2026-09-13-sun-5@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260519
-SUMMARY:Easy + Strides (40-55 min easy)
-DESCRIPTION:40-55 min easy (HR 135-148\, ~5:05-5:45/km) + 6x20s relaxed strides with full recovery. Goal = feel springy\, not tired.
-UID:20260519-78@10k-sub40
+DTSTART;VALUE=DATE:20260915
+SUMMARY:Zone 2 easy
+DESCRIPTION:Week 6 (Deload). Planned distance: 14 km. 14 km easy Zone 2. 
+ HR mostly 135-148. Purely aerobic.
+UID:2026-09-15-tue-6@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260521
-SUMMARY:Sharpener (3x1 km at controlled 10K pace)
-DESCRIPTION:Warm-up 15-20 min easy (HR 135-148\, ~5:05-5:45/km) + 4 strides. Main: 3x1 km at controlled 10K pace\, roughly ~4:00-4:03/km\, with 3 min easy jog. Keep the first rep the easiest; finish feeling fresh enough that one more rep would be possible. Cool-down 12-15 min easy.
-UID:20260521-79@10k-sub40
+DTSTART;VALUE=DATE:20260917
+SUMMARY:1K rhythm reps
+DESCRIPTION:Week 6 (Deload). Planned distance: 15 km. About 15 km total. 
+ Warm up 3 km easy plus 4 strides. Main: 5 x 1 km at controlled 10K effor
+ t\, roughly 3:58-4:06/km on flat cool ground\, with 90 s easy jog. HR ma
+ y rise through about 170-180. Rhythm first\; do not race the final rep.
+UID:2026-09-17-thu-6@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260523
-SUMMARY:Easy + Strides (Optional) (30-45 min easy)
-DESCRIPTION:Optional easy run: 30-45 min easy (HR 135-148\, ~5:10-5:50/km) + 4-6x20s relaxed strides only if you feel stale. Skip if there is any extra fatigue.
-UID:20260523-80@10k-sub40
+DTSTART;VALUE=DATE:20260920
+SUMMARY:Long easy
+DESCRIPTION:Week 6 (Deload). Planned distance: 22 km. 22 km easy Zone 2. 
+ No fast finish.
+UID:2026-09-20-sun-6@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260524
-SUMMARY:Long Run (12-14 km easy)
-DESCRIPTION:Taper support run: 12-14 km easy (HR 135-150\, ~5:10-5:45/km). Prioritize recovery and freshness. No progression.
-UID:20260524-81@10k-sub40
+DTSTART;VALUE=DATE:20260922
+SUMMARY:Zone 2 medium-long
+DESCRIPTION:Week 7 (Peak 1). Planned distance: 17 km. 17 km easy Zone 2. 
+ First 3 km easy\, then HR mostly 140-150.
+UID:2026-09-22-tue-7@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260526
-SUMMARY:Easy + Strides (40-50 min easy)
-DESCRIPTION:Taper week: 40-50 min easy (HR 135-148\, ~5:10-5:50/km) + 4-6x20s relaxed strides with full recovery. Keep the run boring and light.
-UID:20260526-82@10k-sub40
+DTSTART;VALUE=DATE:20260924
+SUMMARY:HM pace blocks
+DESCRIPTION:Week 7 (Peak 1). Planned distance: 18 km. About 18 km total. 
+ Warm up 4 km easy plus 4 strides. Main: 2 x 5 km at controlled half-mara
+ thon effort\, roughly 4:16-4:22/km and HR about 162-172\, with 4 min eas
+ y jog. Cool down easy. Goal is steady rhythm\, not strain.
+UID:2026-09-24-thu-7@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260528
-SUMMARY:Tune-up Fartlek (6x1 min at 10K effort)
-DESCRIPTION:Warm-up 15 min easy (HR 135-148\, ~5:10-5:45/km). Main: 6x(1 min at controlled 10K effort / 90s easy jog). On flat calm ground the on-segments may land around ~3:58-4:05/km\, but keep them smooth and never all-out. Cool-down 10-15 min easy.
-UID:20260528-83@10k-sub40
+DTSTART;VALUE=DATE:20260927
+SUMMARY:Long easy
+DESCRIPTION:Week 7 (Peak 1). Planned distance: 27 km. 27 km easy Zone 2. 
+ Keep it controlled throughout. Fuel and drink as needed.
+UID:2026-09-27-sun-7@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260531
-SUMMARY:Pre-Race Easy (8-10 km easy + strides)
-DESCRIPTION:Run 8-10 km easy (HR 135-148\, ~5:10-5:50/km) + 4x20s relaxed strides with full recovery. Stop while feeling fresh.
-UID:20260531-84@10k-sub40
+DTSTART;VALUE=DATE:20260929
+SUMMARY:Zone 2 medium-long
+DESCRIPTION:Week 8 (Peak 2). Planned distance: 16 km. 16 km easy Zone 2. 
+ HR mostly 140-150. Optional 4 x 20 s relaxed strides if fresh.
+UID:2026-09-29-tue-8@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260602
-SUMMARY:Easy + Strides (35-40 min easy)
-DESCRIPTION:35-40 min easy (HR 135-148\, ~5:10-5:50/km) + 4-6x20s relaxed strides. Keep legs awake and effort low.
-UID:20260602-85@10k-sub40
+DTSTART;VALUE=DATE:20261001
+SUMMARY:Threshold plus HM finish
+DESCRIPTION:Week 8 (Peak 2). Planned distance: 17 km. About 17 km total. 
+ Warm up 3 km easy plus 4 strides. Main: 20 min threshold at HR 168-176 a
+ nd roughly 4:14-4:22/km\, then 5 min easy jog\, then 4 km at controlled 
+ half-marathon effort around 4:16-4:22/km. Cool down easy.
+UID:2026-10-01-thu-8@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260604
-SUMMARY:Race-Week Sharpener (2x1.5 km at controlled 10K effort)
-DESCRIPTION:Warm-up 15-20 min easy (HR 135-148\, ~5:10-5:50/km) + 4 strides. Main: 2x1.5 km at controlled 10K effort\, roughly ~4:00-4:03/km\, with 3 min easy jog. Do not race this workout. Finish confident and fresh. Cool-down 10-12 min easy.
-UID:20260604-86@10k-sub40
+DTSTART;VALUE=DATE:20261004
+SUMMARY:Long easy with controlled finish
+DESCRIPTION:Week 8 (Peak 2). Planned distance: 26 km. 26 km total. First 
+ 20 km easy Zone 2 at HR 140-150. Final 6 km steady at HR about 150-158 a
+ nd roughly 4:35-4:50/km only if you feel good. Otherwise keep the entire
+  run easy.
+UID:2026-10-04-sun-8@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-SUMMARY:Pre-Race Shakeout (20-30 min easy + strides)
-DESCRIPTION:20-30 min easy (HR 130-145\, ~5:15-5:55/km) + 4x20s relaxed strides with full recovery. Keep it short\, calm\, and light.
-UID:20260606-87@10k-sub40
+DTSTART;VALUE=DATE:20261006
+SUMMARY:Zone 2 easy
+DESCRIPTION:Week 9 (Taper). Planned distance: 13 km. 13 km easy Zone 2. H
+ R mostly 135-148. Keep it relaxed.
+UID:2026-10-06-tue-9@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260607
-SUMMARY:10K Race / Time Trial (Sub-40 attempt)
-DESCRIPTION:Warm-up 20 min easy (HR 135-148\, ~5:10-5:50/km) + drills + 4 strides. Race plan: first 2 km slightly conservative (~4:02-4:01/km or controlled effort)\, km 3-7 settle near goal effort (~4:00/km if breathing and form stay smooth)\, km 8-10 race by feel and squeeze only if still in control. In wind or on rolling ground\, protect effort rather than chasing exact splits. If you feel in trouble by 5 km\, reset for 1 km instead of forcing. Cool-down 10-15 min easy.
-UID:20260607-88@10k-sub40
+DTSTART;VALUE=DATE:20261008
+SUMMARY:HM tune-up
+DESCRIPTION:Week 9 (Taper). Planned distance: 15 km. About 15 km total. W
+ arm up 3 km easy plus 4 strides. Main: 2 x 4 km at controlled half-marat
+ hon effort\, roughly 4:16-4:22/km and HR about 162-170\, with 3 min easy
+  jog. Cool down easy. Smooth and confident.
+UID:2026-10-08-thu-9@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+SUMMARY:Long easy
+DESCRIPTION:Week 9 (Taper). Planned distance: 18 km. 18 km easy Zone 2. N
+ o progression.
+UID:2026-10-11-sun-9@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261013
+SUMMARY:Easy plus strides
+DESCRIPTION:Week 10 (Race or benchmark week). Planned distance: 10 km. 10
+  km easy Zone 2\, HR mostly 135-145\, then 4-6 x 20 s relaxed strides wi
+ th full recovery.
+UID:2026-10-13-tue-10@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261015
+SUMMARY:Sharpener
+DESCRIPTION:Week 10 (Race or benchmark week). Planned distance: 10 km. Ab
+ out 10 km total. Warm up 3 km easy plus 4 strides. Main: 3 x 1 km at goa
+ l half-marathon effort\, roughly 4:16-4:20/km\, with 2 min easy jog. Coo
+ l down easy. Finish fresh.
+UID:2026-10-15-thu-10@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261018
+SUMMARY:Half marathon race or controlled benchmark
+DESCRIPTION:Week 10 (Race or benchmark week). Planned distance: 21.1 km. 
+ Half marathon race or controlled benchmark. Warm up 10-15 min easy plus 
+ 4 short strides. Start the first 3 km around 4:18-4:20/km\, settle near 
+ 4:15-4:18/km if smooth\, and race the final 5 km only if still in contro
+ l. If you do not want to race\, run 18-21 km easy instead.
+UID:2026-10-18-sun-10@hm-resume-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
